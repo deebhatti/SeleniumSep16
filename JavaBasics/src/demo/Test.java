@@ -7,6 +7,7 @@ public class Test {
 		Calculator.subtract(50, 40);
 		Calculator obj = new Calculator();
 		obj.multiply(5, 10);
+		//Today is Monday
 	}
 	
 
